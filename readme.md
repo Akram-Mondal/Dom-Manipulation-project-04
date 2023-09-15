@@ -6,7 +6,7 @@ Webiste Name: [OnePlus](https://www.oneplus.in/support)
 
 ### Sample Image
 
-![Sample One](./Pic6.png)
+![Pic6](https://github.com/Akram-Mondal/Dom-Manipulation-project-04/assets/110484350/4ac094f3-8f46-473a-9044-1618169383d8)
 
 ### Tasks
 
@@ -14,7 +14,8 @@ Webiste Name: [OnePlus](https://www.oneplus.in/support)
 
 ### Output
 
-![Output](./Pic7.png)
+![Pic7](https://github.com/Akram-Mondal/Dom-Manipulation-project-04/assets/110484350/3ecae6c1-4249-4922-9e29-da31e5b8969c)
+
 
 # Solution
-![Solution](./Solution.png)
+![Solution](https://github.com/Akram-Mondal/Dom-Manipulation-project-04/assets/110484350/e9973b12-d132-40ff-ba69-345246cfa94e)
